@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://scripts/game_multilingual.gd" id="1_main"]
+[ext_resource type="Script" path="res://scripts/ambient_audio.gd" id="2_ambient"]
+
+[node name="Main" type="Node3D"]
+script = ExtResource("1_main")
+
+[node name="EditorPreviewLabel" type="Label3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.866025, 0.5, 0, -0.5, 0.866025, 0, 1.8, 0)
+text = "The Last Label
+3D third-person horror vertical slice
+Press F5 to play"
+font_size = 36
+horizontal_alignment = 1
+
+[node name="AmbientAudio" type="AudioStreamPlayer" parent="."]
+script = ExtResource("2_ambient")

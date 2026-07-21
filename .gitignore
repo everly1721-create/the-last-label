@@ -1,0 +1,11 @@
+.godot/
+build/
+*.log
+qa_*.png
+qa_*.jpg
+qa_*.png.import
+qa_*.jpg.import
+preview_*
+*.tmp
+desktop.ini
+Thumbs.db
