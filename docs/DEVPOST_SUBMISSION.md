@@ -9,7 +9,7 @@
 - **Built with:** Codex with GPT-5.6, Godot 4.7.1, GDScript
 - **Codex Session ID:** `019f83e1-ed0d-7e03-894b-1cdf9775c7b8`
 - **Repository URL:** https://github.com/everly1721-create/the-last-label
-- **Public demo video:** Pending
+- **Public demo video:** https://youtu.be/S6A9nfG_tVM
 - **Test build:** https://github.com/everly1721-create/the-last-label/releases/download/v0.3.1/TheLastLabel-Windows-x64-v0.3.1.zip
 
 ## Inspiration

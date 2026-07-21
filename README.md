@@ -2,6 +2,8 @@
 
 **A trilingual third-person heritage horror game where museum labels become evidence.**
 
+[Watch the 81-second Build Week demo](https://youtu.be/S6A9nfG_tVM)
+
 The Last Label is a playable Windows chapter built with Godot 4.7.1 during OpenAI Build Week. The player arrives at the fictional Leong House museum in Tanjong Serai as an ordinary tourist. As the tour empties around her, exhibition labels begin to change and expose the erased story of Leong Yuecheng, the family's 1919 bookkeeper.
 
 The location, family, characters, and crime are fictional. The architecture and domestic details are inspired by Peranakan ancestral-house culture from the Straits Settlements period; the game does not reproduce a real house, museum, or historical person.
