@@ -9,3 +9,11 @@ preview_*
 *.tmp
 desktop.ini
 Thumbs.db
+.nomedia
+.import/
+export.cfg
+export_credentials.cfg
+*.translation
+.mono/
+data_*/
+mono_crash.*.json
